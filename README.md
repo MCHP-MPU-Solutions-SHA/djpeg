@@ -29,3 +29,8 @@ Curiosity board(SAM9X6-D1G), the performance is about
 	./start.sh
 ```
 
+***
+## Test
+- Tested on SAM9x60-Curiosity with TM5000 display.
+- Tested on SAM9x75-Curiosity Rev 1 with LVDS-DISPLAY-WVGA Revision 3.
+  The same code and images are tested on two boards.
